@@ -6,6 +6,7 @@ on:
     paths:
       - '**.asciidoc'
 
+permissions: {}
 jobs:
   doc-preview:
     runs-on: ubuntu-latest
